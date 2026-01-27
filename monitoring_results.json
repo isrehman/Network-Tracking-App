@@ -1,0 +1,19 @@
+[
+  {
+    "timestamp": "2025-11-12T10:40:15.128125Z",
+    "ip": "8.8.8.8",
+    "status": "Active",
+    "response_time_ms": 14,
+    "open_ports": [
+      53,
+      443
+    ]
+  },
+  {
+    "timestamp": "2025-11-12T10:40:15.128153Z",
+    "ip": "192.168.1.1",
+    "status": "No Response",
+    "response_time_ms": null,
+    "open_ports": []
+  }
+]
